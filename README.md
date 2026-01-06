@@ -6,76 +6,128 @@
 <h3 align="center">Android Developer | Kotlin Programmer | Problem Solver | AI/ML Learner | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Kotlin+Programmer;Problem+Solver;AI+ML+Learner;Web+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Programmer;Problem+Solver;AI+%2F+ML+Learner;Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 📱 Passionate about **Android app development**
-- 💡 Love solving problems and building **real-world applications**
-- 🤖 Exploring **AI / ML** and modern system design
-- 🧠 Focused on writing **clean, scalable, and reliable code**
-- 🚀 Constantly learning and improving my skills
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 📱 Passionate about **Android development** with a focus on clean, scalable architecture
+- 💡 Love solving **real-world problems** through innovative mobile applications
+- 🤖 Actively exploring **AI/ML** technologies and their integration in mobile apps
+- 🚀 Strong advocate for **clean code** and best development practices
+- 🎯 Currently building advanced projects with **Jetpack Compose** and **Kotlin**
+- 📚 Continuously learning and contributing to open-source projects
+- 🌱 Improving problem-solving skills through competitive programming
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### 🧩 Programming Languages
-C · Java · Python · JavaScript · Kotlin · PHP
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Web Technologies
-HTML5 · CSS3 · JavaScript · React.js
 
-### 📱 App Development
-Android Studio · Kotlin · Jetpack Compose · Flutter
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-Express.js · REST APIs · Node.js · npm
+### 📱 Mobile Development
 
-### ☁️ Cloud & Hosting
-Firebase · Netlify · Vercel
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
-### 🗄️ Databases
-SQLite · MongoDB
+### 🛠️ Tools & Technologies
 
-### 🧰 Tools & DevOps
-Git · GitHub · GitLab · GitHub Actions · Gradle · Windows Terminal
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 ClipStack Pro
-**Android clipboard manager** designed for efficient background clipboard tracking with a clean and professional UI.
+### 📋 [ClipStack Pro](https://github.com/Sanjeevu-Tarun/ClipStack-Pro)
+**Android Clipboard Manager**
+- Advanced clipboard management with background tracking and smart categorization
+- Built with **Kotlin** and **Jetpack Compose** for modern UI
+- Features include history management, favorites, search functionality, and cloud sync
+- Clean architecture following MVVM pattern
 
-### 📌 BitChat
-**Offline Bluetooth chat application** enabling peer-to-peer communication without internet connectivity.
+### 💬 [BitChat](https://github.com/Sanjeevu-Tarun/BitChat)
+**Offline Bluetooth Chat Application**
+- Peer-to-peer communication without internet connectivity
+- Real-time messaging using Bluetooth technology
+- Lightweight and efficient with intuitive user interface
+- Perfect for local networking and offline scenarios
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevu-Tarun&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevu-Tarun&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevu-Tarun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevu-Tarun&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevu-Tarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 ---
 
-## 📈 Top Languages
+## 🎯 Coding Profiles
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevu-Tarun&layout=compact&theme=tokyonight"/>
+  <a href="https://leetcode.com/Sanjeevu-Tarun"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/Sanjeevu-Tarun"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/Sanjeevu_Tarun"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/Sanjeevu-Tarun"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
 ---
 
-## 📬 Contact
-- 📧 **Email:** sanjeevutarun2005@gmail.com
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tarun-sree-prasad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/TarunSreePrasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/tarun_sree_prasad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:sanjeevutarun2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sanjeevu-Tarun&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjeevu-Tarun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
