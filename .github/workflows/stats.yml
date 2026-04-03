@@ -1,0 +1,33 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download stats card
+        run: |
+          curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=Sanjeevu-Tarun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"
+
+      - name: Download top languages card
+        run: |
+          curl -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevu-Tarun&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore: update stats cards" || echo "No changes"
+          git push
