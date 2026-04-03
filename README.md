@@ -9,7 +9,7 @@
 
 <!-- ░░ ANIMATED TYPING ░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=📱+Crafting+Android+apps+with+Jetpack+Compose;🤖+Building+AI-powered+mobile+experiences;⚙️+TypeScript+%7C+Node.js+%7C+Fastify+APIs;🔭+Currently+building+DeviceIntel+—+AI+phone+analyser;✨+Always+learning+%7C+Always+shipping" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Android+Apps+with+Jetpack+Compose+%F0%9F%9A%80;Crafting+AI-Powered+Mobile+Experiences+%F0%9F%A4%96;TypeScript+%7C+Node.js+%7C+Fastify+APIs+%E2%9A%99%EF%B8%8F;Currently+building+DeviceIntel+%E2%80%94+AI+phone+analyser;Always+learning+%7C+Always+shipping+%E2%9C%A8" alt="Typing SVG"/>
 </p>
 
 <!-- ░░ SOCIAL BADGES ░░ -->
@@ -236,23 +236,7 @@ Tic Tac Toe, Connect4 & Chess with live lobbies, spectator mode & JWT auth. Full
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevu-Tarun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="185"/>
-  <img src="https://streak-stats.demolab.com?user=Sanjeevu-Tarun&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="185"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevu-Tarun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="160"/>
-</p>
-
-<!-- ░░ PROFILE SUMMARY CARDS — language pie + commit time breakdown ░░ -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevu-Tarun&theme=tokyonight" width="96%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeevu-Tarun&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeevu-Tarun&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjeevu-Tarun&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://streak-stats.demolab.com/?user=Sanjeevu-Tarun&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="185"/>
 </p>
 
 <br/>
@@ -282,7 +266,6 @@ Tic Tac Toe, Connect4 & Chess with live lobbies, spectator mode & JWT auth. Full
 </p>
 
 ---
-
 
 ## 📬 Let's Connect
 
