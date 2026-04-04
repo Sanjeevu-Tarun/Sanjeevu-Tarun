@@ -282,24 +282,6 @@ Tic Tac Toe, Connect4 & Chess with live lobbies, spectator mode & JWT auth. Full
   />
 </p>
 
-<br/>
-
-<!-- ░░ STATS & TOP LANGUAGES ░░ -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sanjeevu-Tarun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"
-    width="495"
-    height="195"
-    alt="GitHub stats card showing stars, commits, PRs, issues, and contributions for Sanjeevu-Tarun"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevu-Tarun&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8"
-    width="380"
-    height="195"
-    alt="Top languages donut chart — Kotlin, TypeScript, Python, JavaScript and more"
-  />
-</p>
 
 <br/>
 
