@@ -13,7 +13,7 @@
 ================================================================================
 -->
 
-# Sanjeevu Tarun — Android Developer from India
+# Sanjeevu Tarun — Android Developer
 
 Hi, I'm **Sanjeevu Tarun** (full name: **Sanjeevu Tarun Sree Prasad**, also written as **Tarun Sree Prasad**) — an Android developer, Kotlin engineer, and AI/ML enthusiast based in **Hyderabad, Telangana, India**. I build production Android apps with Jetpack Compose, on-device ML pipelines with TensorFlow Lite, and serverless APIs with TypeScript and Fastify. Everything on this profile — every repo, every API, every app — is built and maintained by me.
 
