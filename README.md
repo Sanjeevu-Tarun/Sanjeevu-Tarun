@@ -13,20 +13,6 @@
 ================================================================================
 -->
 
-# Sanjeevu Tarun — Android Developer
-
-Hi, I'm **Sanjeevu Tarun** (full name: **Sanjeevu Tarun Sree Prasad**, also written as **Tarun Sree Prasad**) — an Android developer, Kotlin engineer, and AI/ML enthusiast based in **Hyderabad, Telangana, India**. I build production Android apps with Jetpack Compose, on-device ML pipelines with TensorFlow Lite, and serverless APIs with TypeScript and Fastify. Everything on this profile — every repo, every API, every app — is built and maintained by me.
-
----
-
-<p align="center">
-  Kotlin &amp; Jetpack Compose · AI/ML on Android · Full Stack Engineer · Hyderabad, India 🇮🇳
-</p>
-
-<p align="center">
-  <strong>Building production-grade Android apps, offline-first systems, and real-world APIs with live data.</strong>
-</p>
-
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,70:302b63,100:24243e&height=260&section=header&text=Sanjeevu%20Tarun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Android%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=twinkling"
@@ -38,7 +24,7 @@ Hi, I'm **Sanjeevu Tarun** (full name: **Sanjeevu Tarun Sree Prasad**, also writ
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=50&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose+%F0%9F%9A%80;On-Device+AI+with+TFLite+%E2%80%94+No+Cloud+Required+%F0%9F%A4%96;Offline+P2P+Bluetooth+Messaging+%E2%80%94+BitChat+%F0%9F%93%A1;Production+APIs+%7C+Fastify+%2B+Redis+%2B+Vercel+%E2%9A%99%EF%B8%8F;Building+real+systems+from+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3"
-    width="780"
+    style="max-width: 100%;"
     height="50"
     alt="Sanjeevu Tarun: Android Developer India, Jetpack Compose, TFLite AI, Bluetooth P2P, Fastify APIs"
   />
@@ -87,17 +73,15 @@ Hi, I'm **Sanjeevu Tarun** (full name: **Sanjeevu Tarun Sree Prasad**, also writ
 <p align="center">
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
-    width="460"
+    style="max-width: 100%;"
     height="260"
     alt="Sanjeevu Tarun — Android and AI/ML developer from Hyderabad India"
   />
 </p>
 
-I don't just build apps — I engineer solutions to hard problems: on-device machine learning without a cloud dependency, real-time offline communication over raw Bluetooth, and production-grade REST APIs that scrape, cache, and serve live data at scale.
+My constraint is the constraint I impose: **no cloud, no server, no compromise on privacy.** I build systems that work offline, infer on-device, and serve live data at scale — all while finishing a B.Tech CSE degree with an 8.84 CGPA (9.1 SGPA last semester) and shipping production code that most developers don't attempt until their third job. That's the bar I hold myself to.
 
-My primary domain is **Android development with Kotlin and Jetpack Compose**, where I apply clean MVVM architecture, Hilt dependency injection, Room persistence, and Kotlin Coroutines/Flow to ship apps that feel fast and hold up under real use. Alongside that, I build **TypeScript/Node.js backends** — Fastify servers with two-layer Redis + LRU caching, deployed serverless on Vercel.
-
-What separates my work: I favour systems that function without internet, without a server, and without compromise on privacy. That philosophy drives both **DeviceIntel** (on-device TFLite inference) and **BitChat** (pure Bluetooth P2P messaging).
+My primary domain is **Android development with Kotlin and Jetpack Compose**, where I apply clean MVVM architecture, Hilt dependency injection, Room persistence, and Kotlin Coroutines/Flow to ship apps that feel fast and hold up under real use. Alongside that, I build **TypeScript/Node.js backends** — Fastify servers with two-layer Redis + LRU caching, deployed serverless on Vercel. The stack is wherever the problem is.
 
 ```kotlin
 val developer = Developer(
@@ -106,6 +90,7 @@ val developer = Developer(
     location  = "Hyderabad, Telangana, India 🇮🇳",
     roles     = listOf("Android Developer", "AI/ML Enthusiast", "Backend Engineer"),
     stack     = listOf("Kotlin", "Jetpack Compose", "TypeScript", "Node.js", "TFLite", "Python"),
+    education = "B.Tech CSE — Final Year · CGPA 8.84 · SGPA 9.1 (latest) · GATE 2026 Appeared",
     building  = "DeviceIntel — AI smartphone analyser · BitChat — offline P2P messenger",
     learning  = "Advanced Coroutines, Kotlin Flow, Compose animation APIs",
     philosophy = "Build offline-first. Ship production-grade. Never cut corners."
@@ -128,7 +113,7 @@ val developer = Developer(
 
 | 🔭 Currently Building | 📡 Live in Production | 📚 Deep-diving | 🏆 Competitive Programming | 💬 Talk to me about |
 |:---:|:---:|:---:|:---:|:---:|
-| DeviceIntel AI Analyser · BitChat | 2 APIs on Vercel with Redis caching | Kotlin Coroutines, Flow & advanced Compose | LeetCode · HackerRank | Android · Scraping · Offline systems · APIs |
+| DeviceIntel AI Analyser · BitChat | 2 APIs on Vercel with Redis caching | Kotlin Coroutines, Flow & advanced Compose | LeetCode · HackerRank · GATE 2026 | Android · Scraping · Offline systems · APIs |
 
 </div>
 
@@ -269,6 +254,7 @@ Tic Tac Toe, Connect4, and Chess — all live-multiplayer with lobbies, spectato
 
 </td>
 </tr>
+
 </table>
 
 </div>
@@ -340,7 +326,7 @@ This isn't a portfolio of tutorials. These are systems built to solve real probl
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Sanjeevu-Tarun&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"
-    width="495"
+    style="max-width: 100%;"
     height="185"
     alt="GitHub contribution streak — Sanjeevu Tarun (Sanjeevu-Tarun)"
   />
@@ -349,6 +335,7 @@ This isn't a portfolio of tutorials. These are systems built to solve real probl
 <p align="center">
   <img
     src="https://github-trophies.vercel.app/?username=Sanjeevu-Tarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
+    style="max-width: 100%;"
     alt="GitHub trophies — Sanjeevu Tarun"
   />
 </p>
@@ -414,20 +401,9 @@ This isn't a portfolio of tutorials. These are systems built to solve real probl
 
 ## 🔎 A Bit More About Me
 
-I go by **Sanjeevu Tarun** — my full name is **Sanjeevu Tarun Sree Prasad**, and you'll also see me listed as **Tarun Sree Prasad** in some places. Both names are me. I'm a self-driven Android and Kotlin developer from **Hyderabad, India**, and everything on this profile is something I personally designed, built, and shipped.
+I go by **Sanjeevu Tarun** — full name **Sanjeevu Tarun Sree Prasad**, also listed as **Tarun Sree Prasad** in some places. Final-year B.Tech CSE student from **Hyderabad, India** (CGPA 8.84 · SGPA 9.1 latest · GATE 2026), shipping production systems that most developers don't attempt until years into a career.
 
-My work leans toward problems most developers avoid: offline-first architecture, on-device ML inference, raw Bluetooth communication, and APIs with real caching strategy. If you're interested in collaboration, open-source contributions, or just want to talk Android — feel free to reach out.
-
-<details>
-<summary><sub>🔍 Developer Keywords &amp; Discoverability</sub></summary>
-
-<br/>
-
-<sub>
-Sanjeevu Tarun · Sanjeevu Tarun Sree Prasad · Tarun Sree Prasad · Sanjeevu Tarun GitHub · Sanjeevu Tarun Android Developer · Sanjeevu Tarun India · Sanjeevu Tarun Kotlin Developer · Android Developer India Sanjeevu Tarun · Kotlin Developer India Sanjeevu Tarun · Sanjeevu-Tarun GitHub · Android Developer Hyderabad · Kotlin Developer Hyderabad India · Jetpack Compose Developer India · Mobile App Developer India · Mobile App Developer Hyderabad · Kotlin Android Developer · Kotlin Jetpack Compose · TFLite Android Developer · On-device ML Android · Android ML Engineer India · Offline Android App · Bluetooth P2P Android · Android MVVM Developer · Hilt Dependency Injection Android · Room Database Kotlin · Kotlin Coroutines Developer · Kotlin Flow · Android Clean Architecture · Fastify TypeScript Developer · Node.js API Developer India · Redis Caching API · Vercel Serverless API · GSMArena API · DXOMark API · NotebookCheck API · TypeScript Scraper · Full Stack Developer India · Full Stack Android Developer · React Node.js Developer · Socket.IO Multiplayer · MERN Stack India · AI Android Developer · TensorFlow Lite Mobile · Mobile AI India · Open Source Android India · GitHub Android India · DeviceIntel AI · BitChat Bluetooth · ClipStack Pro Android · mobile-specs-api · notebookchecker · Sanjeevu Tarun projects · Tarun Sree Prasad GitHub · Android Engineer India 2025 · Android Developer India 2025
-</sub>
-
-</details>
+If a problem involves offline constraints, on-device intelligence, raw OS APIs, or data pipelines with real uptime requirements — that's where I operate. Open to Android internships, API collaborations, and open-source contributions. Reach out.
 
 <div align="center">
   <img
