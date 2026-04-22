@@ -90,7 +90,7 @@ val developer = Developer(
     location  = "Hyderabad, Telangana, India 🇮🇳",
     roles     = listOf("Android Developer", "AI/ML Enthusiast", "Backend Engineer"),
     stack     = listOf("Kotlin", "Jetpack Compose", "TypeScript", "Node.js", "TFLite", "Python"),
-    education = "B.Tech CSE — Final Year · CGPA 8.84 · SGPA 9.1 (latest) · GATE 2026 Appeared",
+    education = "B.Tech CSE — Final Year · Hyderabad, India",
     building  = "DeviceIntel — AI smartphone analyser · BitChat — offline P2P messenger",
     learning  = "Advanced Coroutines, Kotlin Flow, Compose animation APIs",
     philosophy = "Build offline-first. Ship production-grade. Never cut corners."
@@ -113,7 +113,7 @@ val developer = Developer(
 
 | 🔭 Currently Building | 📡 Live in Production | 📚 Deep-diving | 🏆 Competitive Programming | 💬 Talk to me about |
 |:---:|:---:|:---:|:---:|:---:|
-| DeviceIntel AI Analyser · BitChat | 2 APIs on Vercel with Redis caching | Kotlin Coroutines, Flow & advanced Compose | LeetCode · HackerRank · GATE 2026 | Android · Scraping · Offline systems · APIs |
+| DeviceIntel AI Analyser · BitChat | 2 APIs on Vercel with Redis caching | Kotlin Coroutines, Flow & advanced Compose | LeetCode · HackerRank | Android · Scraping · Offline systems · APIs |
 
 </div>
 
@@ -401,9 +401,11 @@ This isn't a portfolio of tutorials. These are systems built to solve real probl
 
 ## 🔎 A Bit More About Me
 
-I go by **Sanjeevu Tarun** — full name **Sanjeevu Tarun Sree Prasad**, also listed as **Tarun Sree Prasad** in some places. Final-year B.Tech CSE student from **Hyderabad, India** (CGPA 8.84 · SGPA 9.1 latest · GATE 2026), shipping production systems that most developers don't attempt until years into a career.
+I go by **Sanjeevu Tarun** — final-year B.Tech CSE student from **Hyderabad, India**, building things I actually care about. Most of my projects come from a simple place: I wanted something to exist and it didn't, so I built it.
 
-If a problem involves offline constraints, on-device intelligence, raw OS APIs, or data pipelines with real uptime requirements — that's where I operate. Open to Android internships, API collaborations, and open-source contributions. Reach out.
+I tend to work in the parts of Android that most tutorials skip — accessibility layers, background services, Bluetooth internals, on-device ML. On the backend side, I like systems that have to stay up and handle real traffic, not just pass a demo.
+
+Outside of code I'm into tech in general, and I like talking to people who build things. If you're working on something interesting or just want to geek out about Android or systems — feel free to reach out.
 
 <div align="center">
   <img
