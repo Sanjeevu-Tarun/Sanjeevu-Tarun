@@ -58,9 +58,6 @@
   <a href="https://leetcode.com/u/Tarun_9502/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Sanjeevu Tarun on LeetCode"/>
   </a>
-  <a href="https://twitter.com/TarunSreePrasad">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Sanjeevu Tarun on X — @TarunSreePrasad"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Sanjeevu-Tarun&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="GitHub profile views — Sanjeevu Tarun"/>
 </p>
 
