@@ -73,7 +73,7 @@
   />
 </p>
 
-My constraint is the constraint I impose: **no cloud, no server, no compromise on privacy.** I build systems that work offline, infer on-device, and serve live data at scale — all while finishing a B.Tech CSE degree with an 8.84 CGPA (9.1 SGPA last semester) and shipping production code that most developers don't attempt until their third job. That's the bar I hold myself to.
+I build systems that work offline, infer on-device, and serve live data at scale — with a hard constraint: **no cloud, no server, no compromise on privacy.**
 
 My primary domain is **Android development with Kotlin and Jetpack Compose**, where I apply clean MVVM architecture, Hilt dependency injection, Room persistence, and Kotlin Coroutines/Flow to ship apps that feel fast and hold up under real use. Alongside that, I build **TypeScript/Node.js backends** — Fastify servers with two-layer Redis + LRU caching, deployed serverless on Vercel. The stack is wherever the problem is.
 
