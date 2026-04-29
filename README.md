@@ -2,7 +2,7 @@
 ================================================================================
   SANJEEVU TARUN — GITHUB PROFILE
   Full Name: Sanjeevu Tarun Sree Prasad · Also known as: Tarun Sree Prasad
-  Role: Android Developer · AI/ML Enthusiast · Full Stack Engineer
+  Role: Android Developer .  AI/ML Enthusiast · API developer . Full Stack Engineer
   Location: Hyderabad, Telangana, India
   GitHub: https://github.com/Sanjeevu-Tarun
   Contact: sanjeevutarun2005@gmail.com
