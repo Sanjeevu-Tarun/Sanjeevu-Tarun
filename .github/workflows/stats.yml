@@ -3,7 +3,7 @@ name: Generate GitHub Stats Cards
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to manually trigger the update
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -13,27 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all history so it can pull/push correctly
+          fetch-depth: 0
 
       - name: Create assets folder
         run: mkdir -p assets
 
       - name: Download stats card
         run: |
-          # Added &cache_seconds=1800 to bypass the 24-hour cache
+          # The cache_seconds=1800 forces the API to refresh your streak immediately
           curl -o assets/stats.svg "https://vercel.app"
 
       - name: Download top languages card
         run: |
           curl -o assets/top-langs.svg "https://vercel.app"
 
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@://github.com"
-          git add assets/
-          # Commit only if there are changes
-          git commit -m "chore: update stats cards" || echo "No changes to commit"
-          # Pull latest changes to avoid the [rejected] error
-          git pull origin main --rebase
-          git push origin HEAD:main
+      - name: Auto Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats cards"
+          file_pattern: 'assets/*.svg'
