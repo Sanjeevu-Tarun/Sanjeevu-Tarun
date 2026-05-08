@@ -43,7 +43,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔨_Active-DeviceIntel_AI_Analyser-7C3AED?style=flat-square&labelColor=0d1117" alt="Building DeviceIntel — AI smartphone analyser"/>
-  <img src="https://img.shields.io/badge/🔨_Active-BitChat_P2P_Messenger-7C3AED?style=flat-square&labelColor=0d1117" alt="Building BitChat — offline Bluetooth messenger"/>
   <img src="https://img.shields.io/badge/✅_Live-2_APIs_in_Production-22c55e?style=flat-square&labelColor=0d1117" alt="2 production APIs live on Vercel"/>
   <img src="https://img.shields.io/badge/📍_Hyderabad,_India-0d1117?style=flat-square&logo=googlemaps&logoColor=A78BFA" alt="Based in Hyderabad, Telangana, India"/>
 </p>
